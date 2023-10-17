@@ -1,0 +1,30 @@
+body {
+margin: 0;
+}
+.header_menu_all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1550px;
+    height: 80px;
+    flex-shrink: 0;
+}
+.section_menu_all {
+    display: flex;
+    justify-content: center;
+    line-height: 44px;
+    
+}
+.nav_menu {
+    margin-left: 284px;
+    margin-right: 293px;
+}
+.nav_menu a {
+    color: rgba(18, 16, 12, 0.70);
+    margin-right: 30px;
+    margin-bottom: 15px;
+}
+.ima1 {
+    display: flex;
+    justify-content: center;
+}

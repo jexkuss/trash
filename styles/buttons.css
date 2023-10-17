@@ -1,0 +1,17 @@
+.login_button {
+    color: #F9F9F9;
+    border: none;
+    border-radius: 12px;
+    background: #12100C;
+    width: 80px;
+    height: 32px;
+}
+.login_button:hover {
+    color: gray;
+    border-color: gray;
+}
+.button1 {
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
